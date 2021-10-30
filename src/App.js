@@ -10,7 +10,7 @@ function App() {
   const [isXChance, updateIsXChance] = useState(false);
   
   const notify = (winner) => 
-  toast(`Ta da ! ${winner} won the Game !`);
+  toast(`Moddassir ${winner} won the Game !`);
   
   const onUserClicked = (index) => {
     let strings = Array.from(gameState);

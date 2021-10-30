@@ -119,7 +119,7 @@ function App() {
       <button className="clear-button" onClick={clearGame}>
         Clear Game
       </button>
-      <p className="fc-aqua fw-600">ragOP</p>
+      <p className="fc-aqua fw-600">ragOP.</p>
     </div>
   );
 }
